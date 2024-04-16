@@ -1,2 +1,2 @@
 # bancosMysql
-# repositório criado para armazenar banco de dados.
+ repositório criado para armazenar banco de dados.
